@@ -1,13 +1,24 @@
 #testDiv1 {
-  width: 300px;
+  width: 25%;
   padding: 15px;
-  margin: 10px;
+  margin: 2px;
+  box-sizing: border-box;
+  float: left;
 }
 #testDiv2 {
-  width: 300px;
+  width: 37%;
   padding: 15px;
-  margin: 10px;
+  margin: 2px;
+  box-sizing: border-box;
+  float: left;
+}
+#testDiv3{
+  width: 37%;
+  padding: 15px;
+  margin: 2px;
+  box-sizing: border-box;
+  float:left;
 }
 #container {
-  width: 1200;
+  width: 100%;
 }
