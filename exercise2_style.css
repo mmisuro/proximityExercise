@@ -1,22 +1,38 @@
-navsidebar {
-  width: 10%;
+h1{
+  margin: auto;
+  width: 45%;
+  text-align: center;
+  font-size: 70px;
+  border-bottom: white solid;
+  color: white;
+}
+header {
+  background-color: #52637B;
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+nav {
+  width: 22%;
   padding: 5px;
-  margin: 5px;
+  margin: 2px;
   box-sizing: border-box;
   float: left;
+  background-color: #FFFAF3;
 }
 #mainContent{
-  width: 25%;
+  width: 50%;
   padding: 5px;
-  margin: 5px;
+  margin: 2px;
   box-sizing: border-box;
-  border: solid black 1px;
+  border: solid #52637B 5px;
   float: left;
 }
 #rightSidebar{
-  width: 25%;
+  width: 22%;
   padding: 5px;
-  margin: 5px;
+  margin: 2px;
   box-sizing: border-box;
   float: left;
+  background-color:#FFFAF3;
 }
